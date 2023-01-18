@@ -42,7 +42,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Live Deployment
 
-Link to my live project site: 
+Link to my live project site: https://porteous89.github.io/alisters-dev-portfolio/
 
 ## Usage
 
